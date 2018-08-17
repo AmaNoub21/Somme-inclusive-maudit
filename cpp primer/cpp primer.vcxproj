@@ -23,6 +23,7 @@
     <ProjectGuid>{26D397F3-743C-4795-8CB4-449CE21360E4}</ProjectGuid>
     <RootNamespace>cppprimer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>sum inclusive</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
